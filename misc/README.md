@@ -1,4 +1,4 @@
-[Home](..)
+[Home](/)
 
 ## Miscellaneous Sounds
 

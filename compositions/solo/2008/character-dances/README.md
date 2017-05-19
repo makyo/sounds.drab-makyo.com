@@ -1,4 +1,4 @@
-[Home](../../../..) / [Compositions](../../..) / [Solo compositions](../..)
+[Home](/) / [Compositions](/compositions) / [Solo compositions](/compositions/solo)
 
 ## Character Dances
 
