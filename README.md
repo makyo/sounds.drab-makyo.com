@@ -4,7 +4,7 @@ Madison Scott-Clary is a composer, programmer, and writer living in Loveland, CO
 
 ![Head shot](headshot.jpg)
 
-This [page](http://sounds.drab-makyo.com) and [repository]({{ site.github.repository_url }}) house recordings, sheet music, and other sounds, most of which are licensed free for use.
+This [page](http://sounds.drab-makyo.com) and [repository](https://github.com/makyo/sounds.drab-makyo.com) house recordings, sheet music, and other sounds, most of which are licensed free for use.
 
 ### [Compositions](compositions)
 
