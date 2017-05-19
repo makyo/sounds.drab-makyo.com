@@ -11,7 +11,7 @@
   #(set-paper-size "letter")
 }
 
-\include "./_Tempest.ly"
+\include "./score.ly"
 
 \score {
   \Tempest

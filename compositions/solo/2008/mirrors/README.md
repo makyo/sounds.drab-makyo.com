@@ -6,7 +6,7 @@ Mirrors is mirrored throughout. Each phrase is mirrored within its cell --- an u
 
 ### Score
 
-* Full: [PDF](Mirrors.pdf) --- [Score](_Mirrors.ly) --- [Lilypond container](Mirrors.ly)
+* Full: [PDF](Mirrors.pdf) --- [Score](score.ly) --- [Lilypond container](Mirrors.ly)
 
 ### Renders
 

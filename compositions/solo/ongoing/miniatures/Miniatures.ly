@@ -11,7 +11,7 @@
   #(set-paper-size "letter")
 }
 
-\include "./1/_1.ly"
+\include "./1/score.ly"
 
 \score {
   \minOne

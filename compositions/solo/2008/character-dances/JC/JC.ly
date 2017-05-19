@@ -12,7 +12,7 @@
   #(set-paper-size "letter")
 }
 
-\include "./_JC.ly"
+\include "./score.ly"
 \score {
   \CDJC
 }

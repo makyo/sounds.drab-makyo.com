@@ -23,11 +23,11 @@ J.C.
 
 * Full: [PDF](CharacterDances.pdf) --- [Lilypond container](CharacterDances.ly)
 * Movements
-  * A.S.: [PDF](AS/AS.pdf) --- [Score](AS/_AS.ly) --- [Lilypond container](AS/AS.ly)
-  * T.W.: [PDF](TW/TW.pdf) --- [Score](TW/_TW.ly) --- [Lilypond container](TW/TW.ly)
-  * The Others: [PDF](Others/Others.pdf) --- [Score](Others/_Others.ly) --- [Lilypond container](Others/Others.ly)
-  * K.K.: [PDF](KK/KK.pdf) --- [Score](KK/_KK.ly) --- [Lilypond container](KK/KK.ly)
-  * J.C.: [PDF](JC/JC.pdf) --- [Score](JC/_JC.ly) --- [Lilypond container](JC/JC.ly)
+  * A.S.: [PDF](AS/AS.pdf) --- [Score](AS/score.ly) --- [Lilypond container](AS/AS.ly)
+  * T.W.: [PDF](TW/TW.pdf) --- [Score](TW/score.ly) --- [Lilypond container](TW/TW.ly)
+  * The Others: [PDF](Others/Others.pdf) --- [Score](Others/score.ly) --- [Lilypond container](Others/Others.ly)
+  * K.K.: [PDF](KK/KK.pdf) --- [Score](KK/score.ly) --- [Lilypond container](KK/KK.ly)
+  * J.C.: [PDF](JC/JC.pdf) --- [Score](JC/score.ly) --- [Lilypond container](JC/JC.ly)
 
 ### Recordings
 

@@ -12,7 +12,7 @@
   #(set-paper-size "letter")
 }
 
-\include "./_KK.ly"
+\include "./score.ly"
 \score {
   \CDKK
 }

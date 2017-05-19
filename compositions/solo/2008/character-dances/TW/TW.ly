@@ -12,7 +12,7 @@
   #(set-paper-size "letter")
 }
 
-\include "./_TW.ly"
+\include "./score.ly"
 \score {
   \CDTW
 }

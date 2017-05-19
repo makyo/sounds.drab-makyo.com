@@ -11,7 +11,7 @@
   #(set-paper-size "letter")
 }
 
-\include "./_Mirrors.ly"
+\include "./score.ly"
 
 \score {
   \Mirrors

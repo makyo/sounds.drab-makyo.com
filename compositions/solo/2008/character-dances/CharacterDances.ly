@@ -11,11 +11,11 @@
   #(set-paper-size "letter")
 }
 
-\include "./AS/_AS.ly"
-\include "./TW/_TW.ly"
-\include "./Others/_Others.ly"
-\include "./KK/_KK.ly"
-\include "./JC/_JC.ly"
+\include "./AS/score.ly"
+\include "./TW/score.ly"
+\include "./Others/score.ly"
+\include "./KK/score.ly"
+\include "./JC/score.ly"
 
 \markup {
   \column {

@@ -4,7 +4,7 @@
 
 ### Score
 
-* Full: [PDF](Tempest.pdf) --- [Score](_Tempest.ly) --- [Lilypond container](Tempest.ly)
+* Full: [PDF](Tempest.pdf) --- [Score](score.ly) --- [Lilypond container](Tempest.ly)
 
 ### Renders
 

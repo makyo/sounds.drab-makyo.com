@@ -12,7 +12,7 @@
   #(set-paper-size "letter")
 }
 
-\include "./_AS.ly"
+\include "./score.ly"
 \score {
   \CDAS
 }

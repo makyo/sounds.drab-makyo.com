@@ -12,7 +12,7 @@
   #(set-paper-size "letter")
 }
 
-\include "./_Others.ly"
+\include "./score.ly"
 \score {
   \CDOthers
 }
