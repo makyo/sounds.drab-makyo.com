@@ -7,9 +7,9 @@
 * 2005
   * Invocation
 * 2007
-  * I Live My life
+  * [I Live My life](choral/2007/i-live-my-life)
 * 2009
-  * I Often Wondered
+  * [I Often Wondered](choral/2009/i-often-wondered)
   * Little Eclogue
 
 ### Instrumental
