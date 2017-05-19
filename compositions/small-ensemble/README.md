@@ -1,4 +1,4 @@
-[Home](../..) / [Compositions](..)
+[Home](/) / [Compositions](/compositions)
 
 ## Small Ensemble Compositions
 
