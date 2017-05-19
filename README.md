@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Madison Jesse Scott-Clary
 
-You can use the [editor on GitHub](https://github.com/makyo/sounds.drab-makyo.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![Head shot](headshot.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Madison Scott-Clary is a composer, programmer, and writer living in Loveland, CO. She studied music composition at Colorado State University under Dr. David Wohl, Dr. Forest Greenough, and Dr. James David. She counts among her influences John Adams, Arnold Schoenberg, Sergei Prokofiev, and Dmitri Shostakovich. Although her true love has always been choral music, she has sought to branch out as much as possible.
 
-### Markdown
+This [page](http://sounds.drab-makyo.com) and [repository]({{ site.github.repository_url }}) house recordings, sheet music, and other sounds, most of which are licensed free for use.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [Compositions](compositions)
 
-```markdown
-Syntax highlighted code block
+This includes sheet music and, if applicable, recordings of music intended to be performed by an individual or group.
 
-# Header 1
-## Header 2
-### Header 3
+* [Solo](compositions/solo) (including solo works with minimal accompaniment)
+* [Small Ensemble](compositions/small-ensemble)
+* [Large Ensemble](compositions/large-ensemble)
 
-- Bulleted
-- List
+### [Electronic Music](electronic-music)
 
-1. Numbered
-2. List
+This includes recordings and, in some cases, the source files for electronic music not necessarily intended to be performed so much as distributed or remixed.
 
-**Bold** and _Italic_ and `Code` text
+### [Miscellaneous Sounds](misc)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/makyo/sounds.drab-makyo.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Exactly what it says on the tin
