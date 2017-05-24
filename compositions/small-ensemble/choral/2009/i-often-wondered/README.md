@@ -14,7 +14,7 @@ Cursed | be | love! | she | pitied | me...
 
 ### Scores
 
-(Transcribing...)
+* Full: [PDF](I_often_wondered.pdf) --- [Score](I_often_wondered.ly)
 
 ### Recordings
 
