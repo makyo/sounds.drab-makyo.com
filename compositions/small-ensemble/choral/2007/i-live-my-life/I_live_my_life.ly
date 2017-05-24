@@ -23,7 +23,7 @@ soprano = \relative c' {
   % Music follows here.
   R1
   R1
-  r4 e4. e
+  r4 e4.\p e
   e4 e4. e
   \tuplet 3/2 { b'4 e, b' } e,4. e8~
   e4 e4. e
@@ -35,7 +35,7 @@ soprano = \relative c' {
   \tuplet 3/2 { d'4 g, d' } g,4. g8
   g2 g
   \tuplet 3/2 { d'4 g, d' } g,4. g8
-  r4 d4. e
+  r4 d4.\mf e
   fis4 b4. fis
   \tuplet 3/2 { b4 a b } fis4.fis8
   fis4 g4. fis
@@ -43,12 +43,19 @@ soprano = \relative c' {
   cis1~
   cis
   cis2 cis
-  cis e~(
+  cis e^\markup {\italic decresc.}~(
   e1~
   e2 cis~
   cis1~
-  cis~
-  cis)
+  cis\>~
+  cis\!\p)
+  r4 cis4.\pp cis 
+  cis4 cis4. cis
+  cis4 cis4. cis
+  b4 b4. b
+  b4 d4. d
+  d4 d4. d
+  cis2 cis
 }
 
 sopranoLyrics = \lyricmode {
@@ -72,6 +79,13 @@ sopranoLyrics = \lyricmode {
   the world __
   a cross
   the world. __
+  I may
+  not com -- plete,
+  I may not,
+  I may, I
+  I may not
+  com -- plete this
+  last one,
 }
 
 alto = \relative c' {
@@ -81,7 +95,7 @@ alto = \relative c' {
   R
   R
   R
-  r2 b4 b
+  r2 b4\p b
   b b b \tuplet 3/2 { fis'8 b, fis' }
   b,2 b4 b
   b b b b
@@ -93,7 +107,7 @@ alto = \relative c' {
   e2 e
   \tuplet 3/2 { b'8 e, b' } e,2 e4
   e2 e
-  \tuplet 3/2 { b'8 e, b' } e,2 e4~
+  \tuplet 3/2 { b'8\< e, b' } e,2\!\mf e4~
   e e2 e4~
   e e2 ais4~
   ais ais2 ais4~
@@ -101,11 +115,17 @@ alto = \relative c' {
   ais4. b ais4
   b4. cis b4
   cis4. b cis4
-  b4. cis b4
-  cis4. b cis4
-  b4. ais g4
-  e1
-  
+  b4. cis\> b4
+  cis4.\! b cis4
+  b4. ais\> g4
+  e1\!\p
+  r4 fis4.\pp fis
+  fis4 fis4. fis
+  e4 e4. e
+  e4 e4. e
+  e4 fis4. fis
+  e4 fis4. fis
+  e2 e
 }
 
 altoLyrics = \lyricmode {
@@ -134,18 +154,25 @@ altoLyrics = \lyricmode {
   cross the world,
   a -- cross the
   world.
+  I may
+  not com -- plete,
+  I may not,
+  I may, I
+  I may not
+  com -- plete this
+  last one,
 }
 
 tenor = \relative c' {
   \global
   % Music follows here.
-  a2 a
+  a2\pp a
   a a
   a a
   a a
   a a
   a a
-  g g
+  g\p g
   g g
   g \tuplet 3/2 { gis4 a ais }
   b2 b4 b~
@@ -155,19 +182,25 @@ tenor = \relative c' {
   d d d2
   d d
   d d
-  \tuplet 3/2 { cis4 c b } ais2
+  \tuplet 3/2 { cis4\< c b } ais2\!\mf
   ais ais
   ais ais
   g4 fis4. g
   fis4 g4. fis
   g4 fis4. g
-  fis4 g4. fis~(
+  fis4 g4. fis^\markup {\italic decresc.}~(
   fis1~
   fis2 ais~
   ais1
-  ais2 b~
-  b1)
-  
+  ais2 b\>~
+  b1\!\p)
+  r4 b4.\pp b
+  b4 b4. b
+  b4 b4. b
+  b4 b4. b
+  b4 a4. a
+  b4 a4. a
+  a2 a2
 }
 
 tenorLyrics = \lyricmode {
@@ -194,13 +227,21 @@ tenorLyrics = \lyricmode {
   a -- cross the
   world, a -- cross
   the world a --
-  cross the world __
+  cross the world. __
+  I may
+  not com -- plete,
+  I may not,
+  I may, I
+  I may not
+  com -- plete this
+  last one,
+  
 }
 
 bass = \relative c {
   \global
   % Music follows here.
-  d2 d
+  d2\pp d
   d d
   d d
   d d
@@ -216,7 +257,7 @@ bass = \relative c {
   g g g2
   g g
   g g
-  \tuplet 3/2 { g4 a b } cis2
+  \tuplet 3/2 { g4\> a b } cis2\!\mf
   cis cis
   cis cis
   e e
@@ -224,10 +265,18 @@ bass = \relative c {
   g, g
   g ais
   ais ais
-  ais cis
-  cis cis
-  cis e~
-  e1
+  ais cis\>
+  cis\! cis
+  cis e\>~
+  e1\!\p
+  r4 e4.\pp e
+  e4 e4. e
+  e4 e4. e
+  e4 e4. e
+  e4 a,4. a
+  e'4 a,4. a
+  e'4 a,4. a
+  
 }
 
 bassLyrics = \lyricmode {
@@ -259,6 +308,13 @@ bassLyrics = \lyricmode {
   the world
   a -- cross
   the world. __
+  I may
+  not com -- plete,
+  I may not,
+  I may, I
+  I may not
+  com -- plete this,
+  I may not,
 }
 
 pianoReduction = \new PianoStaff \with {
@@ -269,10 +325,18 @@ pianoReduction = \new PianoStaff \with {
     \consists "Mark_engraver"
     \consists "Metronome_mark_engraver"
     \remove "Staff_performer"
+    
   } {
     #(set-accidental-style 'piano)
     <<
-      \soprano \\
+      \override DynamicText #'stencil = ##f 
+      \override DynamicTextSpanner #'stencil = ##f 
+      \override Hairpin #'stencil = ##f 
+      \soprano
+      \\
+      \override DynamicText #'stencil = ##f 
+      \override DynamicTextSpanner #'stencil = ##f 
+      \override Hairpin #'stencil = ##f 
       \alto
     >>
   }
@@ -282,7 +346,14 @@ pianoReduction = \new PianoStaff \with {
     \clef bass
     #(set-accidental-style 'piano)
     <<
-      \tenor \\
+      \override DynamicText #'stencil = ##f 
+      \override DynamicTextSpanner #'stencil = ##f 
+      \override Hairpin #'stencil = ##f 
+      \tenor
+      \\
+      \override DynamicText #'stencil = ##f 
+      \override DynamicTextSpanner #'stencil = ##f 
+      \override Hairpin #'stencil = ##f 
       \bass
     >>
   }
@@ -328,4 +399,11 @@ pianoReduction = \new PianoStaff \with {
     >>
     \pianoReduction
   >>
+  \layout {
+    \context {
+      \Score
+      \override DynamicText.direction = #UP
+      \override DynamicLineSpanner.direction = #UP
+    }
+  }
 }
