@@ -56,6 +56,28 @@ soprano = \relative c' {
   b4 d4. d
   d4 d4. d
   cis2 cis
+  r2 r8 d4.
+  e2 cis
+  r4 d4. d
+  d cis e4
+  c\< d4. d
+  d( fis~ fis4)\!\f
+  R1
+  R
+  r2 fis,\ff
+  a fis
+  a cis
+  b1
+  R
+  R
+  r2 fis
+  a fis
+  ais cis
+  e1(
+  fis~
+  fis
+  e\>
+  cis2.)\!\mp
 }
 
 sopranoLyrics = \lyricmode {
@@ -86,6 +108,20 @@ sopranoLyrics = \lyricmode {
   I may not
   com -- plete this
   last one,
+  this
+  last one,
+  but I
+  give my -- self
+  my -- self to
+  it. __
+  I
+  cir -- cle
+  a -- round
+  God,
+  I
+  cir -- cle
+  a -- round
+  God. __
 }
 
 alto = \relative c' {
@@ -126,6 +162,28 @@ alto = \relative c' {
   e4 fis4. fis
   e4 fis4. fis
   e2 e
+  r2 r8 fis4.
+  e2 e
+  r4 g4. fis
+  g4 fis4. g
+  fis4\< g4. fis
+  g4.( a~ a4)\!\f
+  R1
+  R
+  R
+  R
+  R
+  r2 e\ff
+  a e
+  ais cis
+  d1
+  fis,2 a
+  fis ais
+  d b4 b~
+  b cis2 b4~
+  b cis2 b4~
+  b\> g4.( fis)
+  e2.\!\mp
 }
 
 altoLyrics = \lyricmode {
@@ -161,6 +219,23 @@ altoLyrics = \lyricmode {
   I may not
   com -- plete this
   last one,
+  this
+  last one,
+  but I
+  give my -- self
+  my -- self to
+  it. __
+  I
+  cir -- cle
+  a -- round
+  God,
+  I
+  cir -- cle
+  a -- round
+  God, the __
+  pri -- mor --
+  di -- al __
+  tow -- er.
 }
 
 tenor = \relative c' {
@@ -201,6 +276,28 @@ tenor = \relative c' {
   b4 a4. a
   b4 a4. a
   a2 a2
+  a4 a4. a
+  b2 a
+  r4 b4. a
+  b4 a4. b
+  a4\< b4. b
+  b( d~ d4)\!
+  d4\f \tuplet 3/2 { a d a} d
+  fis, cis' \tuplet 3/2 { fis, cis' fis, }
+  cis' a2 d4~
+  d \tuplet 3/2 { a d a} d
+  fis, cis' \tuplet 3/2 { fis, cis' fis, }
+  cis' a2 d4~
+  d \tuplet 3/2 { a d a} d
+  fis, cis' \tuplet 3/2 { fis, cis' fis, }
+  cis' a2 d4~
+  d \tuplet 3/2 { a d a} d
+  fis, cis' \tuplet 3/2 { fis, cis' fis, }
+  cis' a2 d4~
+  d e2 d4~
+  d e2 d4~
+  d\> b4.( ais)
+  a2.\!\mp
 }
 
 tenorLyrics = \lyricmode {
@@ -235,7 +332,24 @@ tenorLyrics = \lyricmode {
   I may not
   com -- plete this
   last one,
-  
+  com -- plete this
+  last one,
+  but I
+  give my -- self
+  my -- self to 
+  it. __
+  I cir -- cle a -- round God,
+  I cir -- cle a -- round God, I __
+  cir -- cle a -- round God,
+  I cir -- cle a -- round God, I __
+  cir -- cle a -- round God,
+  I cir -- cle a -- round the
+  pri -- mor -- di -- al tow --
+  er, pri -- mor -- di -- al
+  tow -- wer; the __
+  pri -- mor --
+  di -- al
+  tow -- er
 }
 
 bass = \relative c {
@@ -273,10 +387,31 @@ bass = \relative c {
   e4 e4. e
   e4 e4. e
   e4 e4. e
-  e4 a,4. a
-  e'4 a,4. a
-  e'4 a,4. a
-  
+  e4 g,4. g
+  e'4 g,4. g
+  e'4 fis,4. fis
+  cis'4 g4. g
+  cis4 g4. g
+  d'4. g,4 g4.
+  d' g, g4
+  d'4.\< g, e'4
+  fis g a2\!
+  a4\f \tuplet 3/2 { d a d } a
+  cis fis, \tuplet 3/2 { cis' fis, cis' }
+  fis, d( fis) fis(
+  a4) \tuplet 3/2 { d a d } a
+  cis fis, \tuplet 3/2 { cis' fis, cis' }
+  fis, d( fis) fis(
+  a) \tuplet 3/2 { d, a' d, } a'
+  cis,  fis \tuplet 3/2 { cis fis cis }
+  fis d( fis) fis(
+  a) \tuplet 3/2 { d, a' d, } a'
+  cis,  fis \tuplet 3/2 { cis fis cis }
+  fis d2 a'4
+  \tuplet 3/2 { a a a } a a
+  a \tuplet 3/2 { a a a } a
+  a2(\> ais
+  b2.)\!\mp
 }
 
 bassLyrics = \lyricmode {
@@ -315,6 +450,26 @@ bassLyrics = \lyricmode {
   I may not
   com -- plete this,
   I may not,
+  but I give my --
+  self to
+  it,
+  my -- self
+  to it
+  but I
+  give my -- 
+  self to it.
+  I cir -- cle a -- round God,
+  I cir -- cle a -- round God, I __
+  cir -- cle a -- round God,
+  I cir -- cle a -- round God, I __
+  cir -- cle a -- round God,
+  I cir -- cle a -- round the
+  pri -- mor -- di -- al tow --
+  er, pri -- mor -- di -- al
+  tow -- wer; I
+  cir -- cle a -- round  God;
+  I cir -- cle a -- round
+  God. __
 }
 
 pianoReduction = \new PianoStaff \with {
