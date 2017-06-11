@@ -20,7 +20,7 @@ right = \relative c'' {
   \clef treble
   fis16 g gis8 gis16 a ais8 gis16 a b c d e d e\! %12
   f\f fis \ottava #1 g8~ g e~ e c'~ c a~ %13
-  a\> des16 d~ d8 ees16 e e8 a,16 b c des c des %14
+  a\> des16 d~ d8 ees16 e~ e8 a,16 b c des c des %14
   \ottava #2 e fis g8~ g e~ e c'~ c b16 c %15
   des\!\p\> d e8 ees16 e fis8 a,16 b c des c d e fis %16
   <g d b>1\!\pp %17
