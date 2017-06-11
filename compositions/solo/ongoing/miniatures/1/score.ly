@@ -43,7 +43,7 @@ left = \relative c' {
   <d b'>4\sustainOn <e c'> <d b'> <e c'> %7
   <d b'> <e c'> <fis b>\sustainOff <g a> %8
   <d b'>\sustainOn <e c'> <d b'>\sustainOff <e c'> %9
-  <d b'>\sustainOn <e c'> <fis b> <g a> %10
+  <d b'>\sustainOn <e c'> <fis b> <g a>\sustainOff %10
   <g, e'> <a fis'> <g e'> <a fis'> %11
   <g e'> <a fis'> <b e> <c d> %12
   <a fis'>\sustainOn <b g'> <a fis'> <b g'> %13
@@ -64,3 +64,5 @@ minOne = \new PianoStaff \with {
       midiInstrument = "acoustic grand"
     } { \clef treble \left }
   >>
+  
+%\score { \minOne }
