@@ -2,7 +2,7 @@
 
 ## Character Dances
 
-These Character Dances are intended to be small portraits of a few of the people in my life.  The set stands as something of a diary of my relationships through the years and how they've changed me as well as the others involved.  I invite you to play any number of these pieces you want in any order you desire.
+These *Character Dances* are intended to be small portraits of a few of the people in my life.  The set stands as something of a diary of my relationships through the years and how they've changed me as well as the others involved.  I invite you to play any number of these pieces you want in any order you desire.
 
 A.S.
 :   With the *sostenuto* pedal being held down for each phrase, all of the notes played should be ringing at the end of the phrase, so take the dynamic markings to heart in order for this to be heard. Don't be afraid to go slow enough so that your fingers don't get tripped up in measures 9 and 11.

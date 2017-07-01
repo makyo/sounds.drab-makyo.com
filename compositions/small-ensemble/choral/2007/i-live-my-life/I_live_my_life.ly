@@ -77,7 +77,13 @@ soprano = \relative c' {
   fis~
   fis
   e\>
-  cis2.)\!\mp
+  cis2.)\!\mp b4
+  g fis4. fis
+  fis4 \tuplet 3/2 { fis fis fis } fis~
+  fis \tuplet 3/2 { fis fis fis } fis~
+  fis \tuplet 3/2 { fis fis fis } fis~
+  fis \tuplet 3/2 { fis fis fis } fis~
+  fis1
 }
 
 sopranoLyrics = \lyricmode {
@@ -122,6 +128,11 @@ sopranoLyrics = \lyricmode {
   cir -- cle
   a -- round
   God. __
+  I've been cir -- cling
+  for thou -- sands of years; __
+  thou -- sands of years; __
+  thou -- sands of years; __
+  thou -- sands of years, __
 }
 
 alto = \relative c' {
@@ -183,7 +194,13 @@ alto = \relative c' {
   b cis2 b4~
   b cis2 b4~
   b\> g4.( fis)
-  e2.\!\mp
+  e2.\!\mp e4
+  d cis4. d
+  cis d cis4
+  d cis4. d
+  cis d cis4
+  \tuplet 3/2 { e e e } cis( e~
+  e1)
 }
 
 altoLyrics = \lyricmode {
@@ -235,7 +252,12 @@ altoLyrics = \lyricmode {
   God, the __
   pri -- mor --
   di -- al __
-  tow -- er.
+  tow -- er. I've
+  been cir -- cling;
+  cir -- cling; I've
+  been cir -- cling;
+  cir -- cling
+  for thou -- sands of years, __
 }
 
 tenor = \relative c' {
@@ -297,7 +319,13 @@ tenor = \relative c' {
   d e2 d4~
   d e2 d4~
   d\> b4.( ais)
-  a2.\!\mp
+  a2.\!\mp a4
+  b cis4. b
+  cis b cis4
+  b cis4. b
+  cis4 \tuplet 3/2 { d d d } e(
+  cis) \tuplet 3/2 { d d d } e(
+  cis1)
 }
 
 tenorLyrics = \lyricmode {
@@ -349,7 +377,12 @@ tenorLyrics = \lyricmode {
   tow -- wer; the __
   pri -- mor --
   di -- al
-  tow -- er
+  tow -- er. I've
+  been cir -- cling;
+  cir -- cling; I've
+  been cir -- cling
+  for thou -- sands of years; __
+  thou -- sands of years, __
 }
 
 bass = \relative c {
@@ -411,7 +444,14 @@ bass = \relative c {
   \tuplet 3/2 { a a a } a a
   a \tuplet 3/2 { a a a } a
   a2(\> ais
-  b2.)\!\mp
+  b2.)\!\mp cis,4
+  b a4. b
+  a4 \tuplet 3/2 { b b b } a~
+  a \tuplet 3/2 { b b b } a~
+  a \tuplet 3/2 { b b b } a~
+  a1~
+  a
+  
 }
 
 bassLyrics = \lyricmode {
@@ -469,7 +509,11 @@ bassLyrics = \lyricmode {
   tow -- wer; I
   cir -- cle a -- round  God;
   I cir -- cle a -- round
-  God. __
+  God. __ I've
+  been cir -- cling
+  for thou -- sands of years; __
+  thou -- sands of years; __
+  thou -- sands of years, __
 }
 
 pianoReduction = \new PianoStaff \with {

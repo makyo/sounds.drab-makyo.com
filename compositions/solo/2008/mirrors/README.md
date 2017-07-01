@@ -2,7 +2,7 @@
 
 ## Mirrors
 
-Mirrors is mirrored throughout. Each phrase is mirrored within its cell --- an upward moving line is played, at the same time, in retrograde, making a perfect mirror. The whole piece is mirrored as well, complete with a midpoint after which the music of the first half is played backwards. However, like a mirror, the reflection is not the true image, and the mirroring is not quite complete, subtle differences cropping up here and there to represent the differences between the mirror and reality.
+*Mirrors* is mirrored throughout. Each phrase is mirrored within its cell --- an upward moving line is played, at the same time, in retrograde, making a perfect mirror. The whole piece is mirrored as well, complete with a midpoint after which the music of the first half is played backwards. However, like a mirror, the reflection is not the true image, and the mirroring is not quite complete, subtle differences cropping up here and there to represent the differences between the mirror and reality.
 
 ### Score
 

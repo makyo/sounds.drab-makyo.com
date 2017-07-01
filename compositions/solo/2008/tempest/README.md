@@ -2,6 +2,8 @@
 
 ## Tempest
 
+*Tempest* attempts to evoke a thunderstorm, starting with a patter of rain, interrupted by bolts of lightening and thunder, before heading into that hard, soaking type of downpour. At the end, the sun shines through.
+
 ### Score
 
 * Full: [PDF](Tempest.pdf) --- [Score](score.ly) --- [Lilypond container](Tempest.ly)

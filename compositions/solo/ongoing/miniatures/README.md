@@ -10,6 +10,7 @@ A series of miniatures. I started numbering them in the hope that I would be ins
 * Movements:
   1. [PDF](1/1.pdf) --- [Score](1/score.ly) --- [Lilypond container](1/1.ly)
   2. [PDF](2/2.pdf) --- [Score](2/score.ly) --- [Lilypond container](2/2.ly)
+  3. [PDF](3/3.pdf) --- [Score](3/score.ly) --- [Lilypond container](3/3.ly)
 
 ### Renders
 
