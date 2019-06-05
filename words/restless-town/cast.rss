@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+    <channel>
+
+        <title>Restless Town</title>
+        <description>Restless Town is collection of furry short fiction set in the fictional town of Sawtooth, Idaho.</description>
+        <link>http://sounds.drab-makyo.com/words/restless-town</link>
+        <language>en-us</language>
+        <copyright>Copyright 2019</copyright>
+        <lastBuildDate>Wed, Jun 5 2019 15:00:00 -0800</lastBuildDate>
+        <pubDate>Wed, Jun 5 2019 15:00:00 -0800</pubDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <webMaster>makyo@drab-makyo.com</webMaster>
+
+        <itunes:author>Madison Scott-Clary</itunes:author>
+        <itunes:subtitle>Restless Town is a collection of furry short fiction set in the fictional town of Sawtooth, Idaho.</itunes:subtitle>
+        <itunes:summary>Restless Town is a collection of furry short fiction set in the fictional town of Sawtooth, Idaho. Exploring the themes of gender, love, queer relationships, and mental health, these stories reflect, through their characters, the struggles of the wider world.</itunes:summary>
+
+        <itunes:owner>
+            <itunes:name>Madison Scott-Clary</itunes:name>
+            <itunes:email>makyo@drab-makyo.com</itunes:email>
+        </itunes:owner>
+
+        <itunes:explicit>Yes</itunes:explicit>
+
+        <itunes:image href="https://writing.drab-makyo.com/assets/sawtooth/flag.png"/>
+
+        <itunes:category text="Arts">
+            <itunes:category text="Literature"/>
+        </itunes:category>
+
+        <item>
+            <title>The Fool</title>
+            <link>http://sounds.drab-makyo.com/words/restless-town</link>
+            <guid>http://sounds.drab-makyo.com/words/restless-town/the-fool.mp3</guid>
+            <description>A student and a motherly badger explore questions of identity through a tarot reading.</description>
+            <enclosure url="http://sounds.drab-makyo.com/words/restless-town/the-fool.mp3" length="1715" type="audio/mpeg"/>
+            <category>Literature</category>
+            <pubDate>Wed, Jun 5 2019 15:00:00 -0800</pubDate>
+
+            <itunes:author>Madison Scott-Clary</itunes:author>
+
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:subtitle>A student and a motherly badger explore questions of identity through a tarot reading.</itunes:subtitle>
+            <itunes:summary>A student and a motherly badger explore questions of identity through a tarot reading.</itunes:summary>
+            <itunes:duration>00:28:35</itunes:duration>
+            <itunes:keywords>fiction, short story, furry, tarot, transgender, gender</itunes:keywords>
+
+        </item>
+
+    </channel>
+
+</rss>
