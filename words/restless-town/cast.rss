@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 
     <channel>
 
+        <atom:link href="http://sounds.drab-makyo.com/words/restless-town/cast.rss" rel="self" type="application/rss+xml" />
         <title>Restless Town</title>
         <description>Restless Town is collection of furry short fiction set in the fictional town of Sawtooth, Idaho.</description>
         <link>http://sounds.drab-makyo.com/words/restless-town</link>
         <language>en-us</language>
         <copyright>Copyright 2019</copyright>
-        <lastBuildDate>Wed, Jun 5 2019 15:00:00 -0800</lastBuildDate>
-        <pubDate>Wed, Jun 5 2019 15:00:00 -0800</pubDate>
+        <lastBuildDate>Wed, 05 Jun 2019 15:00:00 PST</lastBuildDate>
+        <pubDate>Wed, 05 Jun 2019 15:00:00 PST</pubDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <webMaster>makyo@drab-makyo.com</webMaster>
+        <webMaster>makyo@drab-makyo.com (Madison Scott-Clary)</webMaster>
 
         <itunes:author>Madison Scott-Clary</itunes:author>
         <itunes:subtitle>Restless Town is a collection of furry short fiction set in the fictional town of Sawtooth, Idaho.</itunes:subtitle>
@@ -37,7 +38,7 @@
             <description>A student and a motherly badger explore questions of identity through a tarot reading.</description>
             <enclosure url="http://sounds.drab-makyo.com/words/restless-town/the-fool.mp3" length="1715" type="audio/mpeg"/>
             <category>Literature</category>
-            <pubDate>Wed, Jun 5 2019 15:00:00 -0800</pubDate>
+            <pubDate>Wed, 05 Jun 2019 15:00:00 PST</pubDate>
 
             <itunes:author>Madison Scott-Clary</itunes:author>
 
