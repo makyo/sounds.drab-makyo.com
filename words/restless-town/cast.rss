@@ -24,7 +24,7 @@
 
         <itunes:explicit>Yes</itunes:explicit>
 
-        <itunes:image href="https://writing.drab-makyo.com/assets/sawtooth/flag.png"/>
+        <itunes:image href="https://storage.makyo.io/cast/restless-town/flag.png"/>
 
         <itunes:category text="Arts">
             <itunes:category text="Literature"/>
