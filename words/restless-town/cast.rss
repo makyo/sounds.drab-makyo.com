@@ -34,9 +34,9 @@
         <item>
             <title>The Fool</title>
             <link>http://sounds.drab-makyo.com/words/restless-town</link>
-            <guid>http://sounds.drab-makyo.com/words/restless-town/the-fool.mp3</guid>
+            <guid>https://storage.makyo.io/cast/restless-town/01-the-fool.mp3</guid>
             <description>A student and a motherly badger explore questions of identity through a tarot reading.</description>
-            <enclosure url="http://sounds.drab-makyo.com/words/restless-town/the-fool.mp3" length="1715" type="audio/mpeg"/>
+            <enclosure url="https://storage.makyo.io/cast/restless-town/01-the-fool.mp3" length="27677764" type="audio/mpeg"/>
             <category>Literature</category>
             <pubDate>Wed, 05 Jun 2019 15:00:00 PST</pubDate>
 
@@ -53,9 +53,9 @@
         <item>
             <title>About Sawtooth</title>
             <link>http://sounds.drab-makyo.com/words/restless-town</link>
-            <guid>http://sounds.drab-makyo.com/words/restless-town/about.mp3</guid>
+            <guid>https://storage.makyo.io/cast/restless-town/11-about.mp3</guid>
             <description>A bit more about the town of Sawtooth, Idaho, as well as information on how to support the writing.</description>
-            <enclosure url="http://sounds.drab-makyo.com/words/restless-town/about.mp3" length="139" type="audio/mpeg"/>
+            <enclosure url="https://storage.makyo.io/cast/restless-town/11-about.mp3" length="5129631" type="audio/mpeg"/>
             <category>Literature</category>
             <pubDate>Wed, 05 Jun 2019 18:00:00 PST</pubDate>
 
@@ -65,6 +65,25 @@
             <itunes:subtitle>A bit more about the town of Sawtooth, Idaho, as well as information on how to support the writing.</itunes:subtitle>
             <itunes:summary>A bit more about the town of Sawtooth, Idaho, as well sa information on how to support the writing.</itunes:summary>
             <itunes:duration>00:04:19</itunes:duration>
+            <itunes:keywords>fiction, furry</itunes:keywords>
+
+        </item>
+
+        <item>
+            <title>Disappearance</title>
+            <link>http://sounds.drab-makyo.com/words/restless-town</link>
+            <guid>https://storage.makyo.io/cast/restless-town/02-disappearance.mp3</guid>
+            <description>A bit more about the town of Sawtooth, Idaho, as well as information on how to support the writing.</description>
+            <enclosure url="https://storage.makyo.io/cast/restless-town/02-disappearance.mp3" length="73550187" type="audio/mpeg"/>
+            <category>Literature</category>
+            <pubDate>Thu, 06 Jun 2019 13:30:00 PST</pubDate>
+
+            <itunes:author>Madison Scott-Clary</itunes:author>
+
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:subtitle>A bit more about the town of Sawtooth, Idaho, as well as information on how to support the writing.</itunes:subtitle>
+            <itunes:summary>A bit more about the town of Sawtooth, Idaho, as well sa information on how to support the writing.</itunes:summary>
+            <itunes:duration>01:20:12</itunes:duration>
             <itunes:keywords>fiction, furry</itunes:keywords>
 
         </item>

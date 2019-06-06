@@ -6,10 +6,12 @@
 
 <a href="https://www.stitcher.com/s?fid=420273&refid=stpr" target="_blank"><img src="https://secureimg.stitcher.com/promo.assets/badges/Stitcher_Listen_Badge_Color_Light_BG.png" width="558" height="167" alt="Listen to Stitcher"></a>
 
-1. [The Fool](the-fool.ogg) --- A student and a motherly badger explore questions of identity through a tarot reading.
+1. [The Fool](https://storage.makyo.io/cast/restless-town/01-the-fool.ogg) --- A student and a motherly badger explore questions of identity through a tarot reading.
 
-   <audio controls><source src="the-fool.ogg" type="audio/ogg"><source src="the-fool.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
-2. Disappearance
+   <audio controls><source src="https://storage.makyo.io/cast/restless-town/01-the-fool.ogg" type="audio/ogg"><source src="https://storage.makyo.io/cast/restless-town/01-the-fool.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+2. [Disappearance](https://storage.makyo.io/cast/restless-town/02-disappearance.ogg) --- A weasel attempts to escape from her life in Sawtooth to Oregon, but finds her old life still tied to home.
+
+   <audio controls><source src="https://storage.makyo.io/cast/restless-town/02-disappearance.ogg" type="audio/ogg"><source src="https://storage.makyo.io/cast/restless-town/02-disappearance.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
 3. Fisher
 4. Centerpiece
 5. You're Gone
@@ -18,6 +20,6 @@
 8. Every Angel is Terrifying
 9. What Remains of Yourself
 10. A Theory of Attachment
-11. [About](about.ogg) --- About the world of Sawtooth.
+11. [About](https://storage.makyo.io/cast/restless-town/11-about.ogg) --- About the world of Sawtooth.
 
-    <audio controls><source src="about.ogg" type="audio/ogg"><source src="about.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+    <audio controls><source src="https://storage.makyo.io/cast/restless-town/11-about.ogg" type="audio/ogg"><source src="https://storage.makyo.io/cast/restless-town/11-about.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
