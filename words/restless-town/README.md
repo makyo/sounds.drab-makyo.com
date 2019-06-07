@@ -27,7 +27,7 @@ td svg {
 </tr>
 </table>
 
-### Episodeso
+### Episodes
 
 1. [The Fool](https://storage.makyo.io/cast/restless-town/01-the-fool.ogg) --- A student and a motherly badger explore questions of identity through a tarot reading.
 
