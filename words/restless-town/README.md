@@ -14,6 +14,9 @@ td svg {
     height: 28px;
     width: 28px;
 }
+audio {
+    margin-bottom: 100px;
+}
 </style>
 
 <table>
@@ -21,7 +24,7 @@ td svg {
 <td colspan="3" style="text-align: center"><a href="cast.rss">{% include feed.svg %} Podcast RSS</a></td>
 </tr>
 <tr class="equal">
-<td><a href="https://www.stitcher.com/s?fid=420273&refid=stpr" target="_blank"><img src="https://secureimg.stitcher.com/promo.assets/badges/Stitcher_Listen_Badge_Color_Light_BG.png" alt="Listen to Stitcher"></a></td>
+<td><a href="https://www.stitcher.com/s?fid=420273&refid=stpr"><img src="https://secureimg.stitcher.com/promo.assets/badges/Stitcher_Listen_Badge_Color_Light_BG.png" alt="Listen to Stitcher"></a></td>
 <td><s>Listen on iTunes</s></td>
 <td><a href='https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&amp;isi=691797987&amp;ius=googleplaymusic&amp;apn=com.google.android.music&amp;link=https://play.google.com/music/m/Iwov35jdzoa5mindezif7v62pha?t%3DRestless_Town%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16' rel='nofollow'><img width='125px' alt='Listen on Google Play Music' src='https://play.google.com/intl/en_us/badges-music/images/badges/en_badge_web_music.png'/></a></td>
 </tr>
