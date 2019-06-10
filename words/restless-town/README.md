@@ -41,7 +41,9 @@ td svg {
 4. [Centerpiece](https://storage.makyo.io/cast/restless-town/04-centerpiece.ogg) --- A couple heads to a BDSM play party where the wife will be the Centerpiece for the whole party to enjoy. With fertility already on the mind, will another mink showing up throw a wrench in things?
 
    <audio controls><source src="https://storage.makyo.io/cast/restless-town/04-centerpiece.ogg" type="audio/ogg"><source src="https://storage.makyo.io/cast/restless-town/04-centerpiece.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
-5. You're Gone
+5. [You're Gone](https://storage.makyo.io/cast/restless-town/05-youre-gone.ogg) --- A husband grieves the loss of his wife through an audio diary.
+
+   <audio controls><source src="https://storage.makyo.io/cast/restless-town/05-youre-gone.ogg" type="audio/ogg"><source src="https://storage.makyo.io/cast/restless-town/05-youre-gone.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
 6. Overclassification
 7. Acts of Intenet
 8. Every Angel is Terrifying

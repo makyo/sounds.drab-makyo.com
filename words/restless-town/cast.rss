@@ -125,6 +125,25 @@
 
         </item>
 
+        <item>
+            <title>You're Gone</title>
+            <link>http://sounds.drab-makyo.com/words/restless-town</link>
+            <guid>https://storage.makyo.io/cast/restless-town/05-youre-gone.mp3</guid>
+            <description>A husband grieves the loss of his wife through an audio diary.</description>
+            <enclosure url="https://storage.makyo.io/cast/restless-town/05-youre-gone.mp3" length="42534538" type="audio/mpeg"/>
+            <category>Literature</category>
+            <pubDate>Mon, 10 Jun 2019 00:30:00 PST</pubDate>
+
+            <itunes:author>Madison Scott-Clary</itunes:author>
+
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:subtitle>A husband grieves the loss of his wife through an audio diary.</itunes:subtitle>
+            <itunes:summary>A husband grieves the loss of his wife through an audio diary.</itunes:summary>
+            <itunes:duration>00:28:31</itunes:duration>
+            <itunes:keywords>fiction, furry, death, abuse</itunes:keywords>
+
+        </item>
+
     </channel>
 
 </rss>
