@@ -144,6 +144,25 @@
 
         </item>
 
+        <item>
+            <title>Overclassification</title>
+            <link>http://sounds.drab-makyo.com/words/restless-town</link>
+            <guid>https://storage.makyo.io/cast/restless-town/06-overclassification.mp3</guid>
+            <description>A chronically neat otter's life is thrown into disarray when she takes a homeless ringtail in from the cold.</description>
+            <enclosure url="https://storage.makyo.io/cast/restless-town/06-overclassification.mp3" length="42534538" type="audio/mpeg"/>
+            <category>Literature</category>
+            <pubDate>Mon, 17 Jun 2019 09:00:00 PST</pubDate>
+
+            <itunes:author>Madison Scott-Clary</itunes:author>
+
+            <itunes:explicit>Yes</itunes:explicit>
+            <itunes:subtitle>A chronically neat otter's life is thrown into disarray when she takes a homeless ringtail in from the cold.</itunes:subtitle>
+            <itunes:summary>A chronically neat otter's life is thrown into disarray when she takes a homeless ringtail in from the cold.</itunes:summary>
+            <itunes:duration>00:28:31</itunes:duration>
+            <itunes:keywords>fiction, furry, mental health, homelessness, sexuality</itunes:keywords>
+
+        </item>
+
     </channel>
 
 </rss>
