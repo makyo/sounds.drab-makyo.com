@@ -15,4 +15,5 @@
 \include "./score.ly"
 \score {
   \minThree
+  %\midi {}
 }

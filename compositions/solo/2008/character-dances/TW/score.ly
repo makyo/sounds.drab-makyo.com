@@ -1,4 +1,4 @@
-\version "2.18.2"
+ \version "2.18.2"
 
 right = \relative c'' {
   \key c \major
@@ -27,7 +27,7 @@ right = \relative c'' {
   R2^\markup {\bold { A tempo } }
   <des e a e'>4\arpeggio <ges, a e' g>\arpeggio
   <a b e a>\arpeggio <d, f a b>\arpeggio \ottava #0
-  ges,8 aes16 c f,\< a g8\!
+  ges,8 aes16 c f,\< a ges8\!
   e'16\mf des aes c f, a\< ges d' \!
   \ottava #1 ees'8\f ees, bes16 c' \times 2/3 { <d g>->\< b' des\! }
   \times 2/3 { <ges, bes>\ff des <ges bes> } \times 2/3 { <f b> b, <f' b> } \times 2/3 { <des ges> ges, <des' ges> } <f, f'>8

@@ -1,10 +1,10 @@
 \version "2.18.2"
 
 \header {
-  title = "Character Dances"
-  subtitle = "A.S."
+  title = "Miniatures"
+  subtitle = "Number 4"
   composer = "Madison Scott-Clary"
-  copyright = "Copyright © Madison Scott-Clary, 2008"
+  copyright = "Copyright © Madison Scott-Clary, 2019"
   tagline = \markup { \override #'(box-padding . 1) \box \center-column { \line { Licensed under a Creative Commons Attribution-ShareAlike 4.0 International License } } }
 }
 
@@ -14,6 +14,6 @@
 
 \include "./score.ly"
 \score {
-  \CDAS
+  \minFour
   %\midi {}
 }

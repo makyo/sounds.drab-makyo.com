@@ -15,4 +15,5 @@
 \include "./score.ly"
 \score {
   \CDKK
+  %\midi {}
 }

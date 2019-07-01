@@ -37,3 +37,12 @@
     piece = \markup \bold \fontsize #4 "Number 3"
   }
 }
+
+\include "./4/score.ly"
+
+\score {
+  \minFour
+  \header {
+    piece = \markup \bold \fontsize #4 "Number 4"
+  }
+}

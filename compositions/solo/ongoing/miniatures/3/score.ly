@@ -13,6 +13,8 @@ right = \relative c' {
   b1
   e,4\< f g a
   b1\!\p
+  e,4\< f g a
+  b1\!\p
   e,4\<( f g a
   b2.\!) cis4
   b\>( a g <f a>
@@ -36,9 +38,13 @@ left = \relative c, {
   <<
     {
       <e' b'>2 <e a>
+      <e gis>1
+      <e b'>2 <e a>
       <e gis> <dis fis>
       <e gis> <e c'>
     } \\ {
+      e,1\sustainOff\sustainOn
+      b'
       e,1\sustainOff\sustainOn
       b'
       e,\sustainOff\sustainOn
