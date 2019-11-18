@@ -1,48 +1,93 @@
 \version "2.18.2"
 
 \header {
-  title = "Miniatures"
-  composer = "Madison Scott-Clary"
-  copyright = "Copyright © Madison Scott-Clary, 2017"
-  tagline = \markup { \override #'(box-padding . 1) \box \center-column { \line { Licensed under a Creative Commons Attribution-ShareAlike 4.0 International License } } }
+  tagline = \markup { \override #'(box-padding . 1) \box \center-column { \line { Licensed under a Creative Commons Attribution 4.0 International License } } }
 }
 
 \paper {
   #(set-paper-size "letter")
+  % Uncomment when compiling for books
+  print-page-number = ##f
+
+  two-sided = ##t
+  inner-margin = 1\in
+  outer-margin = 0.5\in
+  bottom-margin = 1\in
+  top-margin = 0.5\in
+}
+
+\bookpart {
+  \header {
+  title = "Miniatures"
+  composer = "Madison Scott-Clary"
+  }
+  \markup {
+    \null
+  }
 }
 
 \include "./1/score.ly"
+\include "./2/score.ly"
+\include "./3/score.ly"
+\include "./4/score.ly"
+\include "./5/score.ly"
 
+\bookpart {
+  \paper {
+    ragged-last-bottom = ##t
+  }
+  \header {
+    subtitle = "Number 1"
+  }
 \score {
   \minOne
-  \header {
-    piece = \markup \bold \fontsize #4 "Number 1"
-  }
+}
 }
 
-\include "./2/score.ly"
-
+\bookpart {
+  \paper {
+    ragged-last-bottom = ##t
+  }
+  \header {
+    subtitle = "Number 2"
+  }
 \score {
   \minTwo
-  \header {
-    piece = \markup \bold \fontsize #4 "Number 2"
-  }
+}
 }
 
-\include "./3/score.ly"
-
+\bookpart {
+  \paper {
+    ragged-last-bottom = ##t
+  }
+  \header {
+    subtitle = "Number 3"
+  }
 \score {
   \minThree
-  \header {
-    piece = \markup \bold \fontsize #4 "Number 3"
-  }
+}
 }
 
-\include "./4/score.ly"
-
+\bookpart {
+  \paper {
+    ragged-last-bottom = ##t
+  }
+  \header {
+    subtitle = "Number 4"
+  }
 \score {
   \minFour
-  \header {
-    piece = \markup \bold \fontsize #4 "Number 4"
+}
+}
+
+\bookpart {
+  \paper {
+    ragged-last-bottom = ##t
   }
+  \header {
+    subtitle = "Number 5"
+  }
+\score {
+  \minFive
+}
 }

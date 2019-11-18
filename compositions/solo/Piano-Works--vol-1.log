@@ -1,0 +1,1192 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.3.11)  7 JUL 2019 00:59
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Piano-Works--vol-1.tex
+(./Piano-Works--vol-1.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 34 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
+Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docu
+ment class
+\onelineskip=\skip41
+\lxvchars=\skip42
+\xlvchars=\skip43
+\@memcnta=\count79
+\c@@memmarkcntra=\count80
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(/usr/share/texlive/texmf-dist/tex/latex/ifetex/ifetex.sty
+Package: ifetex 2011/12/15 v1.2 ifetex
+
+(/usr/share/texlive/texmf-dist/tex/plain/ifetex/ifetex.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+\stockheight=\skip44
+\stockwidth=\skip45
+\trimtop=\skip46
+\trimedge=\skip47
+
+(/usr/share/texlive/texmf-dist/tex/latex/memoir/mem10.clo
+File: mem10.clo 2008/01/30 v0.3 memoir class 10pt size option
+)
+\binding=\skip48
+\spinemargin=\skip49
+\foremargin=\skip50
+\uppermargin=\skip51
+\lowermargin=\skip52
+\headdrop=\skip53
+\normalrulethickness=\skip54
+\mem@maxheadheight=\skip55
+\mem@maxfootheight=\skip56
+\headwidth=\skip57
+\c@storedpagenumber=\count81
+\memPD=\dimen102
+\m@mabparskip=\skip58
+\thanksmarkwidth=\skip59
+\thanksmarksep=\skip60
+\droptitle=\skip61
+\c@book=\count82
+\c@part=\count83
+\c@chapter=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\beforechapskip=\skip62
+\midchapskip=\skip63
+\afterchapskip=\skip64
+\chapindent=\skip65
+\bottomsectionskip=\skip66
+\secindent=\skip67
+\beforesecskip=\skip68
+\aftersecskip=\skip69
+\subsecindent=\skip70
+\beforesubsecskip=\skip71
+\aftersubsecskip=\skip72
+\subsubsecindent=\skip73
+\beforesubsubsecskip=\skip74
+\aftersubsubsecskip=\skip75
+\paraindent=\skip76
+\beforeparaskip=\skip77
+\afterparaskip=\skip78
+\subparaindent=\skip79
+\beforesubparaskip=\skip80
+\aftersubparaskip=\skip81
+\pfbreakskip=\skip82
+\c@@ppsavesec=\count90
+\c@@ppsaveapp=\count91
+\ragrparindent=\dimen103
+\everylistparindent=\dimen104
+\parsepi=\skip83
+\topsepi=\skip84
+\itemsepi=\skip85
+\parsepii=\skip86
+\topsepii=\skip87
+\topsepiii=\skip88
+\itemsepii=\skip89
+\itemsepiii=\skip90
+\partopsepii=\skip91
+\partopsepiii=\skip92
+\m@msavetopsep=\skip93
+\m@msavepartopsep=\skip94
+\@enLab=\toks14
+\abstitleskip=\skip95
+\absleftindent=\skip96
+\abs@leftindent=\dimen105
+\absrightindent=\skip97
+\absparindent=\skip98
+\absparsep=\skip99
+\c@vslineno=\count92
+\c@poemline=\count93
+\c@modulo@vs=\count94
+\c@memfvsline=\count95
+\vleftskip=\skip100
+\vrightskip=\skip101
+\stanzaskip=\skip102
+\versewidth=\skip103
+\vgap=\skip104
+\vindent=\skip105
+\vleftmargin=\dimen106
+\c@verse=\count96
+\c@chrsinstr=\count97
+\beforepoemtitleskip=\skip106
+\afterpoemtitleskip=\skip107
+\c@poem=\count98
+\beforePoemTitleskip=\skip108
+\midPoemTitleskip=\skip109
+\afterPoemTitleskip=\skip110
+\col@sep=\dimen107
+\extrarowheight=\dimen108
+\NC@list=\toks15
+\extratabsurround=\skip111
+\backup@length=\skip112
+\TX@col@width=\dimen109
+\TX@old@table=\dimen110
+\TX@old@col=\dimen111
+\TX@target=\dimen112
+\TX@delta=\dimen113
+\TX@cols=\count99
+\TX@ftn=\toks16
+\heavyrulewidth=\dimen114
+\lightrulewidth=\dimen115
+\cmidrulewidth=\dimen116
+\belowrulesep=\dimen117
+\belowbottomsep=\dimen118
+\aboverulesep=\dimen119
+\abovetopsep=\dimen120
+\cmidrulesep=\dimen121
+\cmidrulekern=\dimen122
+\defaultaddspace=\dimen123
+\@cmidla=\count100
+\@cmidlb=\count101
+\@aboverulesep=\dimen124
+\@belowrulesep=\dimen125
+\@thisruleclass=\count102
+\@lastruleclass=\count103
+\@thisrulewidth=\dimen126
+\ctableftskip=\skip113
+\ctabrightskip=\skip114
+\abovecolumnspenalty=\count104
+\@linestogo=\count105
+\@cellstogo=\count106
+\@cellsincolumn=\count107
+\crtok=\toks17
+\@mincolumnwidth=\dimen127
+\c@newflo@tctr=\count108
+\mem@margin@floatbox=\box26
+\@contcwidth=\skip115
+\@contindw=\skip116
+\abovecaptionskip=\skip117
+\belowcaptionskip=\skip118
+\subfloattopskip=\skip119
+\subfloatcapskip=\skip120
+\subfloatcaptopadj=\skip121
+\subfloatbottomskip=\skip122
+\subfloatlabelskip=\skip123
+\subfloatcapmargin=\dimen128
+\c@@contsubnum=\count109
+\m@mscap@capbox=\box27
+\m@mscap@fbox=\box28
+\sidecapsep=\dimen129
+\sidecapwidth=\dimen130
+\m@m@tempdima=\dimen131
+\m@mscapraise=\dimen132
+\sidecapraise=\dimen133
+\m@mscapmainwidth=\dimen134
+\m@mscaplkern=\dimen135
+\beforeepigraphskip=\skip124
+\afterepigraphskip=\skip125
+\epigraphwidth=\skip126
+\epigraphrule=\skip127
+LaTeX Info: Redefining \em on input line 7551.
+LaTeX Info: Redefining \emph on input line 7559.
+\tocentryskip=\skip128
+\tocbaseline=\skip129
+\cftparskip=\skip130
+\cftbeforebookskip=\skip131
+\cftbookindent=\dimen136
+\cftbooknumwidth=\dimen137
+\cftbeforepartskip=\skip132
+\cftpartindent=\skip133
+\cftpartnumwidth=\skip134
+\cftbeforechapterskip=\skip135
+\cftchapterindent=\skip136
+\cftchapternumwidth=\skip137
+\cftbeforesectionskip=\skip138
+\cftsectionindent=\skip139
+\cftsectionnumwidth=\skip140
+\cftbeforesubsectionskip=\skip141
+\cftsubsectionindent=\skip142
+\cftsubsectionnumwidth=\skip143
+\cftbeforesubsubsectionskip=\skip144
+\cftsubsubsectionindent=\skip145
+\cftsubsubsectionnumwidth=\skip146
+\cftbeforeparagraphskip=\skip147
+\cftparagraphindent=\skip148
+\cftparagraphnumwidth=\skip149
+\cftbeforesubparagraphskip=\skip150
+\cftsubparagraphindent=\skip151
+\cftsubparagraphnumwidth=\skip152
+\prechapterprecisshift=\dimen138
+\c@maxsecnumdepth=\count110
+\bibindent=\dimen139
+\bibitemsep=\skip153
+\indexcolsep=\skip154
+\indexrule=\skip155
+\indexmarkstyle=\toks18
+\@indexbox=\insert199
+\glossarycolsep=\dimen140
+\glossaryrule=\dimen141
+\sideparvshift=\skip156
+\sideins=\insert198
+\sidebartopsep=\skip157
+\sidebarhsep=\skip158
+\sidebarvsep=\skip159
+\sidebarwidth=\skip160
+\footmarkwidth=\skip161
+\footmarksep=\skip162
+\footparindent=\skip163
+\footinsdim=\skip164
+\footinsv@r=\insert197
+\@mpfootinsv@r=\insert196
+\m@m@k=\count111
+\m@m@h=\dimen142
+\m@mipn@skip=\skip165
+\sidefootins=\insert195
+\sidefootadjust=\skip166
+\sidefootheight=\skip167
+\sidefoothsep=\skip168
+\sidefootvsep=\skip169
+\sidefootwidth=\skip170
+\m@mdownsf=\skip171
+\c@sidefootnote=\count112
+\sidefootmarkwidth=\skip172
+\sidefootmarksep=\skip173
+\sidefootparindent=\skip174
+\c@pagenote=\count113
+\c@pagenoteshadow=\count114
+\mem@pn@lastkern=\skip175
+\every@verbatim=\toks19
+\afterevery@verbatim=\toks20
+\verbatim@line=\toks21
+\tab@position=\count115
+\verbatim@in@stream=\read1
+\verbatimindent=\skip176
+\verbatim@out=\write3
+\bvboxsep=\skip177
+\c@memfbvline=\count116
+\c@bvlinectr=\count117
+\bvnumlength=\skip178
+\fb@frw=\dimen143
+\fb@frh=\dimen144
+\FrameRule=\dimen145
+\FrameSep=\dimen146
+\c@cp@cntr=\count118
+LaTeX Info: Redefining \: on input line 12068.
+LaTeX Info: Redefining \! on input line 12070.
+\c@ism@mctr=\count119
+\c@xsm@mctr=\count120
+\c@csm@mctr=\count121
+\c@ksm@mctr=\count122
+\c@xksm@mctr=\count123
+\c@cksm@mctr=\count124
+\c@msm@mctr=\count125
+\c@xmsm@mctr=\count126
+\c@cmsm@mctr=\count127
+\c@bsm@mctr=\count128
+\c@workm@mctr=\count129
+\c@sheetsequence=\count130
+\c@lastsheet=\count131
+\c@lastpage=\count132
+\c@figure=\count133
+\c@lofdepth=\count134
+\cftbeforefigureskip=\skip179
+\cftfigureindent=\skip180
+\cftfigurenumwidth=\skip181
+\c@table=\count135
+\c@lotdepth=\count136
+\cftbeforetableskip=\skip182
+\cfttableindent=\skip183
+\cfttablenumwidth=\skip184
+Package abstract [2008/07/23] emulated by memoir.
+Package appendix [2008/07/23] emulated by memoir.
+Package array [2008/09/09] emulated by memoir.
+Package booktabs [2016/05/16] emulated by memoir.
+Package ccaption [2008/07/23] emulated by memoir.
+Package changepage [2008/07/23] emulated by memoir.
+Package chngcntr [2008/07/23] emulated by memoir.
+Package chngpage [2008/07/23] emulated by memoir.
+Package crop emulated by memoir.
+Package dcolumn [2008/07/23] emulated by memoir.
+Package delarray [2008/07/23] emulated by memoir.
+Package enumerate [2008/07/23] emulated by memoir.
+Package epigraph [2008/07/23] emulated by memoir.
+Package ifmtarg [2008/07/23] emulated by memoir.
+Package index [2008/07/23] emulated by memoir.
+Package makeidx [2008/07/23] emulated by memoir.
+Package moreverb [2008/07/23] emulated by memoir.
+Package mparhack [2008/07/23] emulated by memoir.
+Package needspace [2008/07/23] emulated by memoir.
+Package newfile [2008/07/23] emulated by memoir.
+Package nextpage [2008/07/23] emulated by memoir.
+Package pagenote [2008/07/23] emulated by memoir.
+Package parskip [2008/07/23] emulated by memoir.
+Package patchcmd [2008/07/23] emulated by memoir.
+Package setspace [2008/07/23] emulated by memoir.
+Package shortvrb [2008/07/23] emulated by memoir.
+Package showidx [2008/07/23] emulated by memoir.
+Package tabularx [2008/07/23] emulated by memoir.
+Package titleref [2008/07/23] emulated by memoir.
+Package titling [2008/07/23] emulated by memoir.
+Package tocbibind [2008/07/23] emulated by memoir.
+Package tocloft [2008/07/23] emulated by memoir.
+Package tocvsec2 [2008/07/23] emulated by memoir.
+Package verbatim [2008/07/23] emulated by memoir.
+Package verse [2008/07/23] emulated by memoir.
+
+(/usr/share/texlive/texmf-dist/tex/latex/memoir/mempatch.sty
+Package: mempatch 2009/07/24 v6.0f Patches for memoir class v1.6180339
+))
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count137
+\calc@Bcount=\count138
+\calc@Adimen=\dimen147
+\calc@Bdimen=\dimen148
+\calc@Askip=\skip185
+\calc@Bskip=\skip186
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count139
+\calc@Cskip=\skip187
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+)
+\AM@pagewidth=\dimen151
+\AM@pageheight=\dimen152
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box29
+\AM@global@opts=\toks23
+\AM@toc@title=\toks24
+\c@AM@survey=\count140
+\AM@templatesizebox=\box30
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip188
+\f@nch@O@elh=\skip189
+\f@nch@O@erh=\skip190
+\f@nch@O@olh=\skip191
+\f@nch@O@orh=\skip192
+\f@nch@O@elf=\skip193
+\f@nch@O@erf=\skip194
+\f@nch@O@olf=\skip256
+\f@nch@O@orf=\skip257
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+\Gm@cnth=\count141
+\Gm@cntv=\count142
+\c@Gm@tempcnt=\count143
+\Gm@bindingoffset=\dimen153
+\Gm@wd@mp=\dimen154
+\Gm@odd@mp=\dimen155
+\Gm@even@mp=\dimen156
+\Gm@layoutwidth=\dimen157
+\Gm@layoutheight=\dimen158
+\Gm@layouthoffset=\dimen159
+\Gm@layoutvoffset=\dimen160
+\Gm@dimlist=\toks25
+)
+(./Piano-Works--vol-1.aux)
+\openout1 = `Piano-Works--vol-1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+\AtBeginShipoutBox=\box31
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count144
+\scratchdimen=\dimen161
+\scratchbox=\box32
+\nofMPsegments=\count145
+\nofMParguments=\count146
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count147
+\MPscratchDim=\dimen162
+\MPnumerator=\count148
+\makeMPintoPDFobject=\count149
+\everyMPtoPDFconversion=\toks27
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <custom>
+* layout(width,height): (614.295pt,794.96999pt)
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot twoside 
+* h-part:(L,W,R)=(72.26999pt, 505.89001pt, 36.135pt)
+* v-part:(T,H,B)=(36.135pt, 722.7pt, 36.135pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=505.89001pt
+* \textheight=667.33757pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=-36.135pt
+* \topmargin=-36.135pt
+* \headheight=12.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=128.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 4.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<Three-Pieces.pdf, id=1, 614.295pt x 794.97pt>
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf>
+Package pdftex.def Info: Three-Pieces.pdf  used on input line 21.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf>
+Package pdftex.def Info: Three-Pieces.pdf  used on input line 21.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<Three-Pieces.pdf, id=4, page=1, 614.295pt x 794.97pt>
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 1>
+Package pdftex.def Info: Three-Pieces.pdf , page1 used on input line 21.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 1>
+Package pdftex.def Info: Three-Pieces.pdf , page1 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 1>
+Package pdftex.def Info: Three-Pieces.pdf , page1 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 1>
+Package pdftex.def Info: Three-Pieces.pdf , page1 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 1>
+Package pdftex.def Info: Three-Pieces.pdf , page1 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Three-Pieces.pdf>]
+<Three-Pieces.pdf, id=21, page=2, 614.295pt x 794.97pt>
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 2>
+Package pdftex.def Info: Three-Pieces.pdf , page2 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 2>
+Package pdftex.def Info: Three-Pieces.pdf , page2 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 2>
+Package pdftex.def Info: Three-Pieces.pdf , page2 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+
+[2 <./Three-Pieces.pdf>]
+<Three-Pieces.pdf, id=42, page=3, 614.295pt x 794.97pt>
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 3>
+Package pdftex.def Info: Three-Pieces.pdf , page3 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 3>
+Package pdftex.def Info: Three-Pieces.pdf , page3 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 3>
+Package pdftex.def Info: Three-Pieces.pdf , page3 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [3 <./Three-Pieces.pdf>]
+<Three-Pieces.pdf, id=46, page=4, 614.295pt x 794.97pt>
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 4>
+Package pdftex.def Info: Three-Pieces.pdf , page4 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 4>
+Package pdftex.def Info: Three-Pieces.pdf , page4 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 4>
+Package pdftex.def Info: Three-Pieces.pdf , page4 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [4 <./Three-Pieces.pdf>]
+<Three-Pieces.pdf, id=50, page=5, 614.295pt x 794.97pt>
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 5>
+Package pdftex.def Info: Three-Pieces.pdf , page5 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 5>
+Package pdftex.def Info: Three-Pieces.pdf , page5 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 5>
+Package pdftex.def Info: Three-Pieces.pdf , page5 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+
+[5 <./Three-Pieces.pdf>]
+<Three-Pieces.pdf, id=54, page=6, 614.295pt x 794.97pt>
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 6>
+Package pdftex.def Info: Three-Pieces.pdf , page6 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 6>
+Package pdftex.def Info: Three-Pieces.pdf , page6 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 6>
+Package pdftex.def Info: Three-Pieces.pdf , page6 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [6 <./Three-Pieces.pdf>]
+<Three-Pieces.pdf, id=58, page=7, 614.295pt x 794.97pt>
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 7>
+Package pdftex.def Info: Three-Pieces.pdf , page7 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 7>
+Package pdftex.def Info: Three-Pieces.pdf , page7 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 7>
+Package pdftex.def Info: Three-Pieces.pdf , page7 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [7 <./Three-Pieces.pdf>]
+<Three-Pieces.pdf, id=63, page=8, 614.295pt x 794.97pt>
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 8>
+Package pdftex.def Info: Three-Pieces.pdf , page8 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 8>
+Package pdftex.def Info: Three-Pieces.pdf , page8 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 8>
+Package pdftex.def Info: Three-Pieces.pdf , page8 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+
+[8 <./Three-Pieces.pdf>]
+<Three-Pieces.pdf, id=67, page=9, 614.295pt x 794.97pt>
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 9>
+Package pdftex.def Info: Three-Pieces.pdf , page9 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 9>
+Package pdftex.def Info: Three-Pieces.pdf , page9 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 9>
+Package pdftex.def Info: Three-Pieces.pdf , page9 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [9 <./Three-Pieces.pdf>]
+<Three-Pieces.pdf, id=71, page=10, 614.295pt x 794.97pt>
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 10>
+Package pdftex.def Info: Three-Pieces.pdf , page10 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 10>
+Package pdftex.def Info: Three-Pieces.pdf , page10 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 10>
+Package pdftex.def Info: Three-Pieces.pdf , page10 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [10 <./Three-Pieces.pdf>]
+<Three-Pieces.pdf, id=75, page=11, 614.295pt x 794.97pt>
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 11>
+Package pdftex.def Info: Three-Pieces.pdf , page11 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 11>
+Package pdftex.def Info: Three-Pieces.pdf , page11 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 11>
+Package pdftex.def Info: Three-Pieces.pdf , page11 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+
+[11 <./Three-Pieces.pdf>]
+<Three-Pieces.pdf, id=79, page=12, 614.295pt x 794.97pt>
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 12>
+Package pdftex.def Info: Three-Pieces.pdf , page12 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 12>
+Package pdftex.def Info: Three-Pieces.pdf , page12 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Three-Pieces.pdf Graphic file (type pdf)
+<use Three-Pieces.pdf, page 12>
+Package pdftex.def Info: Three-Pieces.pdf , page12 used on input line 21.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [12 <./Three-Pieces.pdf>]
+<ongoing/miniatures/Miniatures.pdf, id=87, 614.295pt x 794.97pt>
+File: ongoing/miniatures/Miniatures.pdf Graphic file (type pdf)
+<use ongoing/miniatures/Miniatures.pdf>
+Package pdftex.def Info: ongoing/miniatures/Miniatures.pdf  used on input line 
+23.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ongoing/miniatures/Miniatures.pdf Graphic file (type pdf)
+<use ongoing/miniatures/Miniatures.pdf>
+Package pdftex.def Info: ongoing/miniatures/Miniatures.pdf  used on input line 
+23.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<ongoing/miniatures/Miniatures.pdf, id=90, page=1, 614.295pt x 794.97pt>
+File: ongoing/miniatures/Miniatures.pdf Graphic file (type pdf)
+<use ongoing/miniatures/Miniatures.pdf, page 1>
+Package pdftex.def Info: ongoing/miniatures/Miniatures.pdf , page1 used on inpu
+t line 23.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: ongoing/miniatures/Miniatures.pdf Graphic file (type pdf)
+<use ongoing/miniatures/Miniatures.pdf, page 1>
+Package pdftex.def Info: ongoing/miniatures/Miniatures.pdf , page1 used on inpu
+t line 23.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ongoing/miniatures/Miniatures.pdf Graphic file (type pdf)
+<use ongoing/miniatures/Miniatures.pdf, page 1>
+Package pdftex.def Info: ongoing/miniatures/Miniatures.pdf , page1 used on inpu
+t line 23.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ongoing/miniatures/Miniatures.pdf Graphic file (type pdf)
+<use ongoing/miniatures/Miniatures.pdf, page 1>
+Package pdftex.def Info: ongoing/miniatures/Miniatures.pdf , page1 used on inpu
+t line 23.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ongoing/miniatures/Miniatures.pdf Graphic file (type pdf)
+<use ongoing/miniatures/Miniatures.pdf, page 1>
+Package pdftex.def Info: ongoing/miniatures/Miniatures.pdf , page1 used on inpu
+t line 23.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [13 <./ongoing/miniatures/Miniatures.pdf>]
+<ongoing/miniatures/Miniatures.pdf, id=101, page=2, 614.295pt x 794.97pt>
+File: ongoing/miniatures/Miniatures.pdf Graphic file (type pdf)
+<use ongoing/miniatures/Miniatures.pdf, page 2>
+Package pdftex.def Info: ongoing/miniatures/Miniatures.pdf , page2 used on inpu
+t line 23.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ongoing/miniatures/Miniatures.pdf Graphic file (type pdf)
+<use ongoing/miniatures/Miniatures.pdf, page 2>
+Package pdftex.def Info: ongoing/miniatures/Miniatures.pdf , page2 used on inpu
+t line 23.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ongoing/miniatures/Miniatures.pdf Graphic file (type pdf)
+<use ongoing/miniatures/Miniatures.pdf, page 2>
+Package pdftex.def Info: ongoing/miniatures/Miniatures.pdf , page2 used on inpu
+t line 23.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [14 <./ongoing/miniatures/Miniatures.pdf>]
+<ongoing/miniatures/Miniatures.pdf, id=120, page=3, 614.295pt x 794.97pt>
+File: ongoing/miniatures/Miniatures.pdf Graphic file (type pdf)
+<use ongoing/miniatures/Miniatures.pdf, page 3>
+Package pdftex.def Info: ongoing/miniatures/Miniatures.pdf , page3 used on inpu
+t line 23.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ongoing/miniatures/Miniatures.pdf Graphic file (type pdf)
+<use ongoing/miniatures/Miniatures.pdf, page 3>
+Package pdftex.def Info: ongoing/miniatures/Miniatures.pdf , page3 used on inpu
+t line 23.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ongoing/miniatures/Miniatures.pdf Graphic file (type pdf)
+<use ongoing/miniatures/Miniatures.pdf, page 3>
+Package pdftex.def Info: ongoing/miniatures/Miniatures.pdf , page3 used on inpu
+t line 23.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [15 <./ongoing/miniatures/Miniatures.pdf>]
+<ongoing/miniatures/Miniatures.pdf, id=124, page=4, 614.295pt x 794.97pt>
+File: ongoing/miniatures/Miniatures.pdf Graphic file (type pdf)
+<use ongoing/miniatures/Miniatures.pdf, page 4>
+Package pdftex.def Info: ongoing/miniatures/Miniatures.pdf , page4 used on inpu
+t line 23.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ongoing/miniatures/Miniatures.pdf Graphic file (type pdf)
+<use ongoing/miniatures/Miniatures.pdf, page 4>
+Package pdftex.def Info: ongoing/miniatures/Miniatures.pdf , page4 used on inpu
+t line 23.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ongoing/miniatures/Miniatures.pdf Graphic file (type pdf)
+<use ongoing/miniatures/Miniatures.pdf, page 4>
+Package pdftex.def Info: ongoing/miniatures/Miniatures.pdf , page4 used on inpu
+t line 23.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [16 <./ongoing/miniatures/Miniatures.pdf>]
+<ongoing/miniatures/Miniatures.pdf, id=128, page=5, 614.295pt x 794.97pt>
+File: ongoing/miniatures/Miniatures.pdf Graphic file (type pdf)
+<use ongoing/miniatures/Miniatures.pdf, page 5>
+Package pdftex.def Info: ongoing/miniatures/Miniatures.pdf , page5 used on inpu
+t line 23.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ongoing/miniatures/Miniatures.pdf Graphic file (type pdf)
+<use ongoing/miniatures/Miniatures.pdf, page 5>
+Package pdftex.def Info: ongoing/miniatures/Miniatures.pdf , page5 used on inpu
+t line 23.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ongoing/miniatures/Miniatures.pdf Graphic file (type pdf)
+<use ongoing/miniatures/Miniatures.pdf, page 5>
+Package pdftex.def Info: ongoing/miniatures/Miniatures.pdf , page5 used on inpu
+t line 23.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [17 <./ongoing/miniatures/Miniatures.pdf>]
+<ongoing/miniatures/Miniatures.pdf, id=132, page=6, 614.295pt x 794.97pt>
+File: ongoing/miniatures/Miniatures.pdf Graphic file (type pdf)
+<use ongoing/miniatures/Miniatures.pdf, page 6>
+Package pdftex.def Info: ongoing/miniatures/Miniatures.pdf , page6 used on inpu
+t line 23.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ongoing/miniatures/Miniatures.pdf Graphic file (type pdf)
+<use ongoing/miniatures/Miniatures.pdf, page 6>
+Package pdftex.def Info: ongoing/miniatures/Miniatures.pdf , page6 used on inpu
+t line 23.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ongoing/miniatures/Miniatures.pdf Graphic file (type pdf)
+<use ongoing/miniatures/Miniatures.pdf, page 6>
+Package pdftex.def Info: ongoing/miniatures/Miniatures.pdf , page6 used on inpu
+t line 23.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [18 <./ongoing/miniatures/Miniatures.pdf>]
+<ongoing/miniatures/Miniatures.pdf, id=136, page=7, 614.295pt x 794.97pt>
+File: ongoing/miniatures/Miniatures.pdf Graphic file (type pdf)
+<use ongoing/miniatures/Miniatures.pdf, page 7>
+Package pdftex.def Info: ongoing/miniatures/Miniatures.pdf , page7 used on inpu
+t line 23.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ongoing/miniatures/Miniatures.pdf Graphic file (type pdf)
+<use ongoing/miniatures/Miniatures.pdf, page 7>
+Package pdftex.def Info: ongoing/miniatures/Miniatures.pdf , page7 used on inpu
+t line 23.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ongoing/miniatures/Miniatures.pdf Graphic file (type pdf)
+<use ongoing/miniatures/Miniatures.pdf, page 7>
+Package pdftex.def Info: ongoing/miniatures/Miniatures.pdf , page7 used on inpu
+t line 23.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+
+[19 <./ongoing/miniatures/Miniatures.pdf>]
+<ongoing/miniatures/Miniatures.pdf, id=141, page=8, 614.295pt x 794.97pt>
+File: ongoing/miniatures/Miniatures.pdf Graphic file (type pdf)
+<use ongoing/miniatures/Miniatures.pdf, page 8>
+Package pdftex.def Info: ongoing/miniatures/Miniatures.pdf , page8 used on inpu
+t line 23.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ongoing/miniatures/Miniatures.pdf Graphic file (type pdf)
+<use ongoing/miniatures/Miniatures.pdf, page 8>
+Package pdftex.def Info: ongoing/miniatures/Miniatures.pdf , page8 used on inpu
+t line 23.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ongoing/miniatures/Miniatures.pdf Graphic file (type pdf)
+<use ongoing/miniatures/Miniatures.pdf, page 8>
+Package pdftex.def Info: ongoing/miniatures/Miniatures.pdf , page8 used on inpu
+t line 23.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [20 <./ongoing/miniatures/Miniatures.pdf>]
+<ongoing/miniatures/Miniatures.pdf, id=145, page=9, 614.295pt x 794.97pt>
+File: ongoing/miniatures/Miniatures.pdf Graphic file (type pdf)
+<use ongoing/miniatures/Miniatures.pdf, page 9>
+Package pdftex.def Info: ongoing/miniatures/Miniatures.pdf , page9 used on inpu
+t line 23.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ongoing/miniatures/Miniatures.pdf Graphic file (type pdf)
+<use ongoing/miniatures/Miniatures.pdf, page 9>
+Package pdftex.def Info: ongoing/miniatures/Miniatures.pdf , page9 used on inpu
+t line 23.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ongoing/miniatures/Miniatures.pdf Graphic file (type pdf)
+<use ongoing/miniatures/Miniatures.pdf, page 9>
+Package pdftex.def Info: ongoing/miniatures/Miniatures.pdf , page9 used on inpu
+t line 23.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [21 <./ongoing/miniatures/Miniatures.pdf>]
+<ongoing/miniatures/Miniatures.pdf, id=149, page=10, 614.295pt x 794.97pt>
+File: ongoing/miniatures/Miniatures.pdf Graphic file (type pdf)
+<use ongoing/miniatures/Miniatures.pdf, page 10>
+Package pdftex.def Info: ongoing/miniatures/Miniatures.pdf , page10 used on inp
+ut line 23.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ongoing/miniatures/Miniatures.pdf Graphic file (type pdf)
+<use ongoing/miniatures/Miniatures.pdf, page 10>
+Package pdftex.def Info: ongoing/miniatures/Miniatures.pdf , page10 used on inp
+ut line 23.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: ongoing/miniatures/Miniatures.pdf Graphic file (type pdf)
+<use ongoing/miniatures/Miniatures.pdf, page 10>
+Package pdftex.def Info: ongoing/miniatures/Miniatures.pdf , page10 used on inp
+ut line 23.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [22 <./ongoing/miniatures/Miniatures.pdf>]
+<2008/character-dances/CharacterDances.pdf, id=153, 614.295pt x 794.97pt>
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf  used on inp
+ut line 25.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf  used on inp
+ut line 25.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<2008/character-dances/CharacterDances.pdf, id=156, page=1, 614.295pt x 794.97p
+t>
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf, page 1>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf , page1 used
+ on input line 25.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf, page 1>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf , page1 used
+ on input line 25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf, page 1>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf , page1 used
+ on input line 25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf, page 1>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf , page1 used
+ on input line 25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf, page 1>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf , page1 used
+ on input line 25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [23 <./2008/character-dances/CharacterDances.pdf>]
+<2008/character-dances/CharacterDances.pdf, id=170, page=2, 614.295pt x 794.97p
+t>
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf, page 2>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf , page2 used
+ on input line 25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf, page 2>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf , page2 used
+ on input line 25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf, page 2>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf , page2 used
+ on input line 25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [24 <./2008/character-dances/CharacterDances.pdf>]
+<2008/character-dances/CharacterDances.pdf, id=184, page=3, 614.295pt x 794.97p
+t>
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf, page 3>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf , page3 used
+ on input line 25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf, page 3>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf , page3 used
+ on input line 25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf, page 3>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf , page3 used
+ on input line 25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [25 <./2008/character-dances/CharacterDances.pdf>]
+<2008/character-dances/CharacterDances.pdf, id=189, page=4, 614.295pt x 794.97p
+t>
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf, page 4>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf , page4 used
+ on input line 25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf, page 4>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf , page4 used
+ on input line 25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf, page 4>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf , page4 used
+ on input line 25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [26 <./2008/character-dances/CharacterDances.pdf>]
+<2008/character-dances/CharacterDances.pdf, id=193, page=5, 614.295pt x 794.97p
+t>
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf, page 5>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf , page5 used
+ on input line 25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf, page 5>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf , page5 used
+ on input line 25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf, page 5>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf , page5 used
+ on input line 25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [27 <./2008/character-dances/CharacterDances.pdf>]
+<2008/character-dances/CharacterDances.pdf, id=197, page=6, 614.295pt x 794.97p
+t>
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf, page 6>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf , page6 used
+ on input line 25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf, page 6>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf , page6 used
+ on input line 25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf, page 6>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf , page6 used
+ on input line 25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [28 <./2008/character-dances/CharacterDances.pdf>]
+<2008/character-dances/CharacterDances.pdf, id=201, page=7, 614.295pt x 794.97p
+t>
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf, page 7>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf , page7 used
+ on input line 25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf, page 7>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf , page7 used
+ on input line 25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf, page 7>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf , page7 used
+ on input line 25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [29 <./2008/character-dances/CharacterDances.pdf>]
+<2008/character-dances/CharacterDances.pdf, id=205, page=8, 614.295pt x 794.97p
+t>
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf, page 8>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf , page8 used
+ on input line 25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf, page 8>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf , page8 used
+ on input line 25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf, page 8>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf , page8 used
+ on input line 25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [30 <./2008/character-dances/CharacterDances.pdf>]
+<2008/character-dances/CharacterDances.pdf, id=213, page=9, 614.295pt x 794.97p
+t>
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf, page 9>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf , page9 used
+ on input line 25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf, page 9>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf , page9 used
+ on input line 25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf, page 9>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf , page9 used
+ on input line 25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [31 <./2008/character-dances/CharacterDances.pdf>]
+<2008/character-dances/CharacterDances.pdf, id=218, page=10, 614.295pt x 794.97
+pt>
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf, page 10>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf , page10 use
+d on input line 25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf, page 10>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf , page10 use
+d on input line 25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf, page 10>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf , page10 use
+d on input line 25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+
+[32 <./2008/character-dances/CharacterDances.pdf>]
+<2008/character-dances/CharacterDances.pdf, id=222, page=11, 614.295pt x 794.97
+pt>
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf, page 11>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf , page11 use
+d on input line 25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf, page 11>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf , page11 use
+d on input line 25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: 2008/character-dances/CharacterDances.pdf Graphic file (type pdf)
+<use 2008/character-dances/CharacterDances.pdf, page 11>
+Package pdftex.def Info: 2008/character-dances/CharacterDances.pdf , page11 use
+d on input line 25.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [33 <./2008/character-dances/CharacterDances.pdf>] (./Piano-Works--vol-1.aux) 
+) 
+Here is how much of TeX's memory you used:
+ 6744 strings out of 493895
+ 97566 string characters out of 6162004
+ 190537 words of memory out of 5000000
+ 10172 multiletter control sequences out of 15000+600000
+ 4238 words of font info for 16 fonts, out of 8000000 for 9000
+ 680 hyphenation exceptions out of 8191
+ 43i,18n,46p,270b,431s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/urw/ncntrsbk/uncb8a.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/urw/ncntrsbk/uncr8a.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/urw/ncntrsbk/uncri8a.pfb>
+Output written on Piano-Works--vol-1.pdf (33 pages, 447204 bytes).
+PDF statistics:
+ 235 PDF objects out of 1000 (max. 8388607)
+ 139 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 211 words of extra memory for PDF output out of 10000 (max. 10000000)
+
