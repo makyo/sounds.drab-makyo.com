@@ -1,0 +1,29 @@
+\documentclass{memoir}
+
+\usepackage{pdfpages}
+\usepackage{fancyhdr}
+
+\usepackage[
+  letterpaper,
+  layoutwidth=8.5in,
+  layoutheight=11in,
+  vmargin=0.5in,
+  outer=0.5in,
+  inner=1in,
+  includeheadfoot,
+  twoside,
+]{geometry}
+
+\begin{document}
+
+\pagestyle{plain}
+
+\includepdf[pages=-, pagecommand={\thispagestyle{plain}}]{Three-Pieces.pdf}
+
+\includepdf[pages=-, pagecommand={\thispagestyle{plain}}]{ongoing/miniatures/Miniatures.pdf}
+
+\includepdf[pages=-, pagecommand={\thispagestyle{plain}}]{Chronological-Inventions.pdf}
+
+\includepdf[pages=-, pagecommand={\thispagestyle{plain}}]{2008/character-dances/CharacterDances.pdf}
+
+\end{document}

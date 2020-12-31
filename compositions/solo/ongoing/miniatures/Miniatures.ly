@@ -18,11 +18,20 @@
 
 \bookpart {
   \header {
-  title = "Miniatures"
-  composer = "Madison Scott-Clary"
+    title = "Miniatures"
+    composer = "Madison Scott-Clary"
   }
   \markup {
-    \null
+    \column {
+      \wordwrap {
+        In an effort to rekindle my composition chops as well as my love for writing music, I decided to undertake the task of a series of miniatures. All they needed to be was a handful of measures forming a complete musical idea, and, as I do when I struggle with writing words, I set to work to write the pieces in a single sitting and then let them go for a few days. No pressure to edit as I go, no need to spend time on finding the exact right note. I just had to write \italic {something }.
+      }
+      \null
+      \null
+      \wordwrap {
+        To that end, I wrote these five miniatures in the span of a few months and then went back to edit and touch them up. The exercise is something that I'm still fond of, and I aim to continue this set as time goes by.
+      }
+    }
   }
 }
 
@@ -39,9 +48,9 @@
   \header {
     subtitle = "Number 1"
   }
-\score {
-  \minOne
-}
+  \score {
+    \minOne
+  }
 }
 
 \bookpart {
@@ -51,9 +60,9 @@
   \header {
     subtitle = "Number 2"
   }
-\score {
-  \minTwo
-}
+  \score {
+    \minTwo
+  }
 }
 
 \bookpart {
@@ -63,9 +72,9 @@
   \header {
     subtitle = "Number 3"
   }
-\score {
-  \minThree
-}
+  \score {
+    \minThree
+  }
 }
 
 \bookpart {
@@ -75,9 +84,9 @@
   \header {
     subtitle = "Number 4"
   }
-\score {
-  \minFour
-}
+  \score {
+    \minFour
+  }
 }
 
 \bookpart {
@@ -87,7 +96,7 @@
   \header {
     subtitle = "Number 5"
   }
-\score {
-  \minFive
-}
+  \score {
+    \minFive
+  }
 }
